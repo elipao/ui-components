@@ -8,5 +8,5 @@ The Three.js library is used primarily, as I have a strong interest in developin
 ## UI-Components 
 - Typewriter
 - Card Array
-- 2D particle with velocity
-- 3D particle object representation 
+- 2D particle cloud with velocity
+- 3D particle cloud for object representation 
